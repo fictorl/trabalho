@@ -1,0 +1,47 @@
+
+body{
+    background-image: url(Imagens-Trabalho/background.jpg);
+    background-repeat: repeat;
+
+}
+fieldset{
+    background-color: rgb(236, 159, 57);
+    border-color: orangered;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(219, 145, 145);
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+h3{
+    color: whitesmoke;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    border-color: orangered;
+    background-color: aliceblue;    
+}
+nav{
+    background-color: rgb(252, 252, 252);
+    float: left;
+    padding-right: 15px;
+
+}
+#direita{
+    text-align: right;
+}
+footer{
+    margin-top: 22%;
+    background-color: black;
+    text-align: left;
+}
+
+
